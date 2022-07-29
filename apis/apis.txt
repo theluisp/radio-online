@@ -1,0 +1,37 @@
+register---
+http://ekamhub.com/onlineradios1/apis/api.php?set=Register&email=brij1212jh23@gmail.com&password=brij1234&fname=brij&lname=mohan&DOB=0000-00-00&country=India&gender=male&userimage=jdshfjsdkh
+
+login--
+http://ekamhub.com/onlineradios1/apis/api.php?set=Login&email=brij12@gmail.com&password=brij1234
+
+latest--
+http://ekamhub.com/onlineradios1/apis/api.php?set=NewArrival
+
+featured station---
+http://ekamhub.com/onlineradios1/apis/api.php?set=FeatureStn
+
+category all---
+http://ekamhub.com/onlineradios1/apis/api.php?set=Category
+
+all stations with pagination---
+http://ekamhub.com/onlineradios1/apis/api.php?set=AllStations&page=1&offset=10
+
+StationByCatId---
+http://ekamhub.com/onlineradios1/apis/api.php?set=StationByCatId&cid=1&page=1
+
+country list----
+http://ekamhub.com/onlineradios1/apis/api.php?set=Countries&page=1&offset=10
+
+
+StationByCountry_Id---
+http://ekamhub.com/onlineradios1/apis/api.php?set=StnByCountryId&country_id=224&page=1
+
+favouritelist---
+http://ekamhub.com/onlineradios1/apis/api.php?set=FavList&uid=286
+
+addtofav---
+http://ekamhub.com/onlineradios1/apis/api.php?set=AddFav&uid=286&sid=3
+
+CheckFav---
+http://ekamhub.com/onlineradios1/apis/api.php?set=CheckFav&uid=286&sid=4
+

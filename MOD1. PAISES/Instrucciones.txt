@@ -1,0 +1,14 @@
+Guardar copia de seguridad de los archivos originales en el servidor
+Sustituir los sig. archivos
+Copiar y pegar:
+
+Copiar y pegar para sustituir la carpeta core n la sig. ruta: core/ 
+
+Añadir archivo css dentro de la carpeta css a la carpeta css del servidor
+
+Añadir archivo header.php dentro de la carpeta includes a la carpeta includes del servidor
+
+Añadir archivo countries.php y country.php dentro de la carpeta src a la carpeta src del servidor
+
+Añadir archivo routes.php y sustituir dentro de la carpeta bootstrap del servidor.
+

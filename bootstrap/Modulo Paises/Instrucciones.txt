@@ -1,0 +1,13 @@
+Guardar copia de seguridad de los archivos originales en el servidor
+Sustituir los sig. archivos
+Copiar y pegar:
+
+Country.php en la sig. ruta: core/
+
+Dentro de Nueva Carpeta
+countries.php en la sig. ruta: src/
+country.php en la sig ruta: src/
+
+header.php en la sig.ruta: includes/
+Routes.php en la sig. ruta:bootstrap/
+
